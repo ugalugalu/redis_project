@@ -9,6 +9,7 @@ Best practices used during implementation
 Recommendations for deploying and running pipeine with cloud provider
 
 The solution can be deployed on redis platform thereby unlocking the below features
+
 1.Redis Sentinel: This is to provide a high availability solution.
 
 2.Redis Clustering: Distributing data across multiple Redis instances.
